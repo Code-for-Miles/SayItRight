@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdMobTestApp</string>
+    <string name="customevent_interstitial_ad_unit_id">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="customizedcustomevent_interstitial_ad_unit_id">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="customevent_fullscreen_ad_unit_id">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="customizedcustomevent_fullscreen_ad_unit_id">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="customevent_rewarded_ad_unit_id">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+    <string name="customizedcustomevent_rewarded_ad_unit_id">ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX</string>
+</resources>
